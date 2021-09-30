@@ -9,6 +9,8 @@ arr.forEach((x) => {
 
 console.log(counts)
 
+//Ejercicio #2
+
 var arrays = [1,[2,3],4,5,[6,[7]]];
 function flat(data) {
   var a = []
@@ -16,7 +18,13 @@ function flat(data) {
   return a;
 }
 console.log (flat(arrays));
+ 
+//Ejercicio #3
+function Arrayconstructor 
 
+var Array = (['super','bow','bowl','tar','get','book','let'], "superbowl")
+
+console.log['super','bowl',   [0,2]]
 
 
 
